@@ -4,9 +4,9 @@ Docker image to build a Flutter app `*.apk` for Android. The latest image contai
 
 Currently:
 
-| Version  | Ref | Release Date |
-|---|---|---|
-| 3.19.4 | 68bfaea | 21.03.2023 |
+| Version | Ref | Release Date |
+|---------|---|--------------|
+| 3.22.2  | 761747b | 6.6.2024     |
 
 ## Releases
 
